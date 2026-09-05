@@ -60,3 +60,7 @@ Giovanni Clara
 
 This project is available under the MIT License. See \[LICENSE](LICENSE) for details.
 
+
+## Student: Giovanni Clara
+Course: Web & Multimedia Development
+Environment: Windows 11 (Git Bash)
