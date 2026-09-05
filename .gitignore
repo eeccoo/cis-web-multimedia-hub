@@ -1,0 +1,15 @@
+Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+Editor and temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+.vscode/
