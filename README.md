@@ -1,66 +1,41 @@
-\# CIS Web Multimedia Hub
+# CIS 3830 Multimedia Portfolio
 
+## Student Information
 
+- **Student:** Giovanni Clara
+- **Course:** CIS 3830 – Multimedia and Game Application Programming
+- **Environment:** Windows 11 with Git Bash
 
-A central repository for projects, documentation, and multimedia assets created for CIS coursework.
+A central repository for projects, documentation, and multimedia assets created for CIS 3830 coursework.
 
+## Repository Structure
 
+- `projects/` — Course projects organized from `week-01` through `week-15`
+- `docs/` — Documentation and assignment evidence
+- `assets/` — Images and multimedia resources
 
-\## Repository Structure
-
-
-
-\- `projects/` — Course projects and exercises
-
-\- `docs/` — Documentation and assignment evidence
-
-\- `assets/` — Images and multimedia resources
-
-
-
-\## Getting Started
-
-
+## Getting Started
 
 Clone this repository using SSH:
 
-
-
-`git clone git@github.com:eeccoo/cis-web-multimedia-hub.git`
-
-
+```bash
+git clone git@github.com:eeccoo/cis3830-multimedia-portfolio.git
+```
 
 Enter the repository folder:
 
+```bash
+cd cis3830-multimedia-portfolio
+```
 
+## Git Workflow
 
-`cd cis-web-multimedia-hub`
+Development work begins in the working directory. Changes are staged using `git add`, saved to the local repository using `git commit`, and synchronized with GitHub using `git push`.
 
-
-
-\## Git Workflow
-
-
-
-Development work is completed on dedicated branches and merged into the `main` branch. Commit messages use conventional prefixes such as `feat:`, `docs:`, and `chore:`.
-
-
-
-\## Author
-
-
+## Author
 
 Giovanni Clara
 
+## License
 
-
-\## License
-
-
-
-This project is available under the MIT License. See \[LICENSE](LICENSE) for details.
-
-
-## Student: Giovanni Clara
-Course: Web & Multimedia Development
-Environment: Windows 11 (Git Bash)
+This project is available under the MIT License. See [LICENSE](LICENSE) for details.
